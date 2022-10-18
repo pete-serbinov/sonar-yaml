@@ -61,7 +61,7 @@
         <dependency>
             <groupId>org.sonarsource.analyzer-commons</groupId>
             <artifactId>sonar-analyzer-commons</artifactId>
-            <version>1.6.0.219</version>
+            <version>1.28.0.1058</version>
         </dependency>
         <dependency>
             <groupId>commons-lang</groupId>
